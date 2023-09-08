@@ -1,3 +1,5 @@
-theme: cayman
 title: Viraja Khatu
-description: Welcome to my personal website!
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
