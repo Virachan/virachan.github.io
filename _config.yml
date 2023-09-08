@@ -1,8 +1,9 @@
 title: Viraja Khatu
 description: Cayman is a clean, responsive theme for GitHub Pages.
+is_project_page: true
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 cv:
-  zip_url: 
-  another_url: https://ca.linkedin.com/in/virajakhatu
+  webpage_url: https://ca.linkedin.com/in/virajakhatu
+  zip_url: https://ca.linkedin.com/in/virajakhatu
